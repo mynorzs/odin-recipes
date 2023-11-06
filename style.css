@@ -1,0 +1,25 @@
+* {
+  font-family: sans-serif;
+}
+
+h1 {
+  color: rgb(33, 47, 64);
+}
+
+h2 {
+  color: rgb(71, 92, 118);
+}
+
+a {
+  color: rgb(33, 99, 67);
+}
+
+p,
+li {
+  color: rgb(98, 98, 98);
+}
+
+img {
+  height: auto;
+  width: 400px;
+}
